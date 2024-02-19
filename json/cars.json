@@ -1,0 +1,72 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "name": "Aurora X1",
+      "model": "X1",
+      "body_type": "Coupe",
+      "color": "Hyper Silver",
+      "fuel_consumption_100": 5.8,
+      "price": 280000,
+      "image": "./img/future1.png",
+      "amount": 0,
+      "additional_info": {
+        "manufacturing_year": 2043,
+        "engine_capacity": 2.0,
+        "power_kw": 110,
+        "futuristic_features": "Aurora Drive software offers fully autonomous driving experience based on AI and machine learning."
+      }
+    },
+    {
+      "id": "2",
+      "name": "Vortex Visionary",
+      "model": "Vortex Visionary",
+      "body_type": "Coupe",
+      "color": "Hyper Silver",
+      "fuel_consumption_100": 6.2,
+      "price": 300000,
+      "image": "./img/future2.png",
+      "amount": 0,
+      "additional_info": {
+        "manufacturing_year": 2045,
+        "engine_capacity": 1.5,
+        "power_kw": 100,
+        "futuristic_features": "Vortex Vision system provides seamless integration into smart city environment, including VR displays and real-time cloud service updates."
+      }
+    },
+    {
+      "id": "3",
+      "name": "Quantum QX",
+      "model": "Quantum QX",
+      "body_type": "Sedan",
+      "color": "Hyper Silver",
+      "fuel_consumption_100": 5.5,
+      "price": 320000,
+      "image": "./img/future3.png",
+      "amount": 0,
+      "additional_info": {
+        "manufacturing_year": 2032,
+        "engine_capacity": 2.2,
+        "power_kw": 115,
+        "futuristic_features": "Quantum Drive technology offers top-tier performance and energy efficiency using AI assisted by quantum computers for navigation and control."
+      }
+    },
+    {
+      "id": "4",
+      "name": "Nova NeoGenesis",
+      "model": "Nova NeoGenesis",
+      "body_type": "Hatchback",
+      "color": "Galactic Green",
+      "fuel_consumption_100": 7.0,
+      "price": 350000,
+      "image": "./img/future4.png",
+      "amount": 0,
+      "additional_info": {
+        "manufacturing_year": 2057,
+        "engine_capacity": 2.5,
+        "power_kw": 120,
+        "futuristic_features": "Nova Intelligence system combines biometric identification and adaptive smart driving, enabling unprecedented comfort and safety in the SUV class."
+      }
+    }
+  ]
+}
